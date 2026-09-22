@@ -54,7 +54,7 @@ Um banco de dados de gestão de estoque de uma loja de roupas, é importante con
 
 ## Dados de teste em CSV
 
-<a href="produtos.csv">Produto.csv</a>
+<a href="produtos.CSV">Produto.csv</a>
 <a href="categoria.csv">Categoria.csv</a>
 <a href="estoque.csv">Estoque.csv</a>
 <a href="fornecedor.csv">Fornecedor.csv</a>
