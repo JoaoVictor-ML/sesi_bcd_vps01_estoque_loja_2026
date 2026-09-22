@@ -1,0 +1,4 @@
+id;nome;descricao;preco;marca;id_categoria;id_fornecedor
+1;Mesa escritório grande;mesa;1500.25;Madeira-Madeira;11;11
+2;Cadeira macia;cadeira;805;Madeira-mdf;11;12
+3;Armário grande;armario;2200;Madeira;11;13

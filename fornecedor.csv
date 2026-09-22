@@ -1,0 +1,4 @@
+id;razao_social;nome_fantasia;cnpj;telefone;email;endereco
+1;Madereira.ltda;Madeira-Madeira;12.345.678/0001-95;(21)39246-0800;madeirada@sqlemail.com;Rua das madeiras - 100
+2;Pinheiros.ltda;Madeira-mdf;21.456.938/0001-21;(21)98944-0800;pinheirada@dmlemail.com;Morro dos Pinheiros - 90
+3;Móveis.ltda;Madeira;67.424.908/0001-35;(21)12658-0800;moveislegais@ddlemail.com;Rua dos Movéis - 70
